@@ -1,0 +1,1 @@
+#product{width:200px;height:auto}.task2-container{display:grid;grid-template-columns:repeat(2,minmax(0,.2fr));gap:.1rem}
